@@ -10,14 +10,22 @@ with st.sidebar:
       
           - [2023년 X-Mas Card ](https://youtu.be/-i3qjuYwkkI)
           - [결혼 43주년 ](https://youtu.be/z_BM9oS_tVQ)
-          
           - [2023 Youth REM ](https://youtu.be/2l8QLk4pE_4)
           - [나도 부활할수 있나 ](https://youtu.be/HT-7nTMv8Ak)
           - [용서 ](https://youtu.be/Pt5_qFeGl3Q)
           - [상상력 의 힘 ](https://youtu.be/4bSIVsGl7GM)
           - [고통과 싸우는 법 ](https://youtu.be/PyYXWM0QO_8)
-          
-                 
+
+          - [행복 이란 ](https://kevinoh-happy0.streamlit.app/)
+          - [바둑 수양 ](https://kevinoh-gogame.streamlit.app/)
+          - [홀몬이란 ](https://kevinoh-holmon.streamlit.app/)
+          - [나는 누구인가 ](https://kevinoh-whoami.streamlit.app/)
+          - [2025 X-Mas 마니또 성경구절 ](https://kevinoh-bible1.streamlit.app/)
+          - [2025 NZ Cruise 여행기 ](https://kevinoh-nzcruise.streamlit.app/)
+          - [끌어 당김에 법칙 ](https://kevinoh-pull00.streamlit.app/)
+          - [회계하라 ](https://kevinoh-repent.streamlit.app/)
+         
+
     """
     )
      
