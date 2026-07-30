@@ -39,15 +39,14 @@ st.markdown(
     여기 Kevin 의 심리 상담 챗봇 한테 문의를 .
 
 
-    - [기도, 고민, 천국법은 뭐라 하나 ](https://kevinoh-bib40.streamlit.app/)
-
-    - [심리 상담 챗봇 ](https://2024-app4-8yc8qc8xa6jacxc3mjtyw4.streamlit.app/)
+    - [주제별 질문, 고민 건강 종교 등등 ](https://helenoh-chatbot1.streamlit.app/)
+    - [Text to image, 그림 그리기 ](https://kevinoh-draw1.streamlit.app/)
+   	
     
+     
+    음치도 양치될수 있는기회   
     
-    업무를 하다보면 문서를 번역 한다던지 요약한다던지 내용의 의미를 묻고 싶을때 
-    Kevin 의 챗봇을 통해 물어 보세요.  먼저 볼 File 를 upload 하시고   
-    
-    - [Kevin 의 챗봇 ](https://langchain6-gwtklymlqjbtytbcaestpf.streamlit.app/)
+    - [AI 로 작사 작곡 노래 ](https://youtu.be/PmQlIyWGtAY/)
 
     
 """
